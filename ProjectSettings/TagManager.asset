@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BG
   - Water
   - UI
-  - 
-  - 
+  - FG
+  - Obj
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 205736189
+    locked: 0
+  - name: FG
+    uniqueID: 2074834091
+    locked: 0
+  - name: Obj
+    uniqueID: 2432919453
+    locked: 0
+  - name: FFG
+    uniqueID: 3623524155
     locked: 0
